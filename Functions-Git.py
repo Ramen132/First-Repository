@@ -15,7 +15,7 @@ greeting()
 # Riley Schippers
 # 2.11.19
 
-x = 406
+x = 10
 
 def print_something():
     x = 3
