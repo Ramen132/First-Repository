@@ -1,7 +1,8 @@
 # 4.13.3: Greetings
 # Riley Schippers
 # 2.5.19
-'''
+
+
 name = input(" What is your name???: ")
 
 def greeting():
@@ -9,7 +10,7 @@ def greeting():
     print("Nice to meet you")
 
 greeting()
-'''
+
 
 # 4.13.4: Functions and Variables
 # Riley Schippers
@@ -23,3 +24,14 @@ def print_something():
 
 print('\n', x)
 print_something()
+
+
+# 4.13.6: Functions & Variables, Part 3
+# Riley Schippers
+# 2.18.19
+
+def print_number(x):
+    print(x)
+
+print_number(13)
+print_number(23)
