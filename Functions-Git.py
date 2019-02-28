@@ -47,6 +47,7 @@ def name_and_age(name, age):
 name_and_age('Mike', 33)
 name_and_age('Zane', 18)
 
+
 # 4.14.5: Default Parameter Values
 # Riley Schippers
 # 2.19.19
@@ -58,3 +59,12 @@ def print_two_number(x, y = 20):
 print_two_number(34, 45)
 print_two_number(78)
 
+
+# 4.16.6 :Print Sum
+#Riley Schippers
+# 2.19.19
+
+def print_sum(x, y):
+    print(x + y)
+
+print_sum(46,62)
