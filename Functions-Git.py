@@ -81,3 +81,4 @@ try:
 except ValueError:
     print('\n''That was not an integer, off to gulag')
 
+print_sum(46,62)
